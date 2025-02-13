@@ -1,6 +1,4 @@
 ![Made With Python & Qt](./Python_and_Qt.png)
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Paylaşılacak-isim=Paylaşılacak-link)
-
 __Made With *Python* and *PyQt6/Qt*__
 
 __*Developers:
@@ -12,3 +10,5 @@ __*Official Page from PyCalc*__
 __Don't Fork This Project__
 
 ![Made With Python & Qt](./Protect-Your-Privacy.png)
+
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://x.com/intent/tweet?text=Download Here PyCalcv1.0 - Protect Your Privacy = https://turhanenesishak.github.io/PyCalc/)
