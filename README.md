@@ -11,4 +11,4 @@ __Don't Fork This Project__
 
 ![Made With Python & Qt](./Protect-Your-Privacy.png)
 
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://x.com/intent/tweet?text=Download_Here_PyCalcv1.0-Protect Your Privacy=https://turhanenesishak.github.io/PyCalc/)
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://x.com/intent/tweet?text=Download_Here_PyCalcv1.0-Protect_Your_Privacy=https://turhanenesishak.github.io/PyCalc/)
