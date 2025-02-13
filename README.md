@@ -9,4 +9,5 @@ __Secret Vault 2.0 is Available__
 
 __*Official Page from PyCalc*__
 __Don't Fork This Project__
+
 ![Made With Python & Qt](./Protect-Your-Privacy.png)
