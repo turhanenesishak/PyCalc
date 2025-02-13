@@ -6,3 +6,5 @@ __*Developers:
   Enes İshak Turhan(turhanenesishak)*__
 
 __Secret Vault 2.0 is Available__
+
+![Made With Python & Qt](./Protect-Your-Privacy.png)
