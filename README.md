@@ -1,1 +1,1 @@
-![Made With Python & Qt](./Python_&_Qt)
+![Made With Python & Qt](./Python_and_Qt.png)
