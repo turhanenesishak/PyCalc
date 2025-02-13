@@ -1,4 +1,5 @@
 ![Made With Python & Qt](./Python_and_Qt.png)
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Paylaşılacak-isim=Paylaşılacak-link)
 
 __Made With *Python* and *PyQt6/Qt*__
 
