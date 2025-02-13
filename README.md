@@ -1,1 +1,1 @@
-![Made With Python & Qt](URL veya resim yolu)
+![Made With Python & Qt](./Python_&_Qt)
