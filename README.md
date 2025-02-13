@@ -1,6 +1,8 @@
 ![Made With Python & Qt](./Python_and_Qt.png)
 
-_Made With *Python* and *PyQt6/Qt*_
+__Made With *Python* and *PyQt6/Qt*__
 
-*Developers:
-  Enes İshak Turhan(turhanenesishak)*
+__*Developers:
+  Enes İshak Turhan(turhanenesishak)*__
+
+__Secret Vault 2.0 is Available__
